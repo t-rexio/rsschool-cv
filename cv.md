@@ -1,4 +1,4 @@
-[[rsschool](https://#)] 
+[rsschool-cv](https://#)
 ***
 # Lantsova Daria
 ## Contacts
@@ -23,3 +23,34 @@ I am a beginner web-developer. Have experience with Python and C# programming. H
     + Figma
     + Photoshop
     + Tilda
+## Code Example
+```
+function validatePIN (pin) {
+    let flag;
+    if ((pin.length==4 || pin.length==6)){
+        for (let i = 0; i<pin.length; i++ )
+        {
+            const char = pin.charCodeAt(i);
+            if(char>=48 && char<=57){
+                flag=true;
+                continue;
+            } else{
+                flag = false;
+                break;
+            }
+        }
+    } else{
+        flag = false;
+    }
+    return flag;
+}
+```
+## Education
+* Moscow Aviation Institute
+* Courses:
+    + CS50 lectures
+    + Stepik: Web development for begginers
+## Languages
+* Russian Native
+* English A2/B1(pre-intermediate)
+* Spanish A1(Nivel Basico1)

@@ -1,5 +1,3 @@
-# [RSSCHOOL-CV](https://#)
-***
 # Lantsova Daria
 ## Contacts
 **Location:** _Moscow, Russia_

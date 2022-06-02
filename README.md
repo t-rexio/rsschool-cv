@@ -1,1 +1,1 @@
-# rsschool-cv
+https://t-rexio.github.io/rsschool-cv/cv
